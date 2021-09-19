@@ -1,2 +1,0 @@
-# SBSCodecept
-Dummy  Assignment
